@@ -16,7 +16,7 @@
   box-sizing: border-box;
   font-family: 'Roboto Mono', monospace;
 
-  dy {
+  body {
     display: flex;
     align-items: center;
     justify-content: center;
